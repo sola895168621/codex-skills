@@ -1,0 +1,7 @@
+interface:
+  display_name: "图片3D建模"
+  short_description: "从图片生成3D模型，处理 FBX，并整理进 Unity。"
+  default_prompt: "Use $image-3d-modeling to turn this image into a Unity-ready 3D asset through Hunyuan 3D, Blender or Maya, and Unity material setup."
+
+policy:
+  allow_implicit_invocation: true
