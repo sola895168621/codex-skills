@@ -1,0 +1,7 @@
+interface:
+  display_name: "FBX整理"
+  short_description: "整理导入 Unity 的 FBX 模型资源。"
+  default_prompt: "Use $fbx-zhengli to clean up these imported Unity FBX models."
+
+policy:
+  allow_implicit_invocation: true
