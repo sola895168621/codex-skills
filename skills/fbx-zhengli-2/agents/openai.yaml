@@ -1,0 +1,7 @@
+interface:
+  display_name: "FBX Zhengli 2"
+  short_description: "Clean Unity FBX assets, then optionally retopologize and transfer textures in Maya."
+  default_prompt: "Use $fbx-zhengli-2 to clean up this FBX, set up Unity materials/textures, and optionally retopologize it in Maya."
+
+policy:
+  allow_implicit_invocation: true
